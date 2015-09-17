@@ -1,0 +1,17 @@
+The Dukes: 7 years of Russian cyber-espionage
+
+The Dukes, AKA APT29, are a well-resourced, highly dedicated, and organized cyber-espionage group that has been working for the Russian government since at least 2008 to collect intelligence in support of foreign and security policy decision-making.
+
+The Dukes are known to employ a wide arsenal of malware toolsets including:
+
+MiniDuke
+CosmicDuke
+OnionDuke
+CozyDuke
+SeaDuke
+CloudDuke (AKA MiniDionis)
+HammerDuke (AKA HAMMERTOSS) 
+
+Whitepaper https://www.f-secure.com/documents/996508/1030745/dukes_whitepaper.pdf
+
+Write-up https://labsblog.f-secure.com/2015/09/17/the-dukes-7-years-of-russian-cyber-espionage/
